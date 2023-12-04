@@ -1,0 +1,7 @@
+Y:\Степанова Марина\Контрольная\N\obj\Debug\N.csproj.AssemblyReference.cache
+Y:\Степанова Марина\Контрольная\N\obj\Debug\MainWindow.g.cs
+Y:\Степанова Марина\Контрольная\N\obj\Debug\Pages\LoginPage.g.cs
+Y:\Степанова Марина\Контрольная\N\obj\Debug\App.g.cs
+Y:\Степанова Марина\Контрольная\N\obj\Debug\N_Content.g.cs
+Y:\Степанова Марина\Контрольная\N\obj\Debug\N_MarkupCompile.cache
+Y:\Степанова Марина\Контрольная\N\obj\Debug\N_MarkupCompile.lref
